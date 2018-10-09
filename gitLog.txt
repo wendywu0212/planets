@@ -1,0 +1,41 @@
+commit 62310bfa6b018244960cb2ac1556784453a6f59d
+Author: wendy wu <wendywu0212@gmail.com>
+Date:   Tue Oct 9 14:39:58 2018 +0200
+
+    created worktry.docx
+
+commit 35ace2a6b526b54e55b19cab55ef8efcfd3a160e
+Author: wendy wu <wendywu0212@gmail.com>
+Date:   Tue Oct 9 14:33:10 2018 +0200
+
+    windows
+
+commit b5c90e4d8047c3a5802f0d80db92b343e636ef08
+Author: wendy wu <wendywu0212@gmail.com>
+Date:   Tue Oct 9 14:29:24 2018 +0200
+
+    some modifications
+
+commit 45409d8b92aeebd57453f3afc3d3c9297834d1f3
+Author: wendy wu <wendywu0212@gmail.com>
+Date:   Tue Oct 9 14:19:12 2018 +0200
+
+    step4
+
+commit 6dd933c4d151d0a48236bcb9c51fbcde41ed8a96
+Author: wendy wu <wendywu0212@gmail.com>
+Date:   Tue Oct 9 14:11:53 2018 +0200
+
+    step 3
+
+commit 4f414720171c7740575cc52f9da281d58fa75e48
+Author: wendy wu <wendywu0212@gmail.com>
+Date:   Tue Oct 9 14:10:22 2018 +0200
+
+    added stuff about base
+
+commit 9630d38b807d7d66a667046c38fece2adb3abe13
+Author: wendy wu <wendywu0212@gmail.com>
+Date:   Tue Oct 9 13:55:53 2018 +0200
+
+    Created the file mars.txt
